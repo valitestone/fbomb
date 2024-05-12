@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fbomb/static/css/main.fe0f137c.css",
+    "main.css": "/fbomb/static/css/main.2257a8ee.css",
     "main.js": "/fbomb/static/js/main.dda4655a.js",
     "static/media/index.cjs": "/fbomb/static/media/index.61e57bb6b4fd6fcd0938.cjs",
     "static/media/logo.svg": "/fbomb/static/media/logo.39ea6d1afa69fe94ae4754b833f7e5fc.svg",
     "index.html": "/fbomb/index.html",
-    "main.fe0f137c.css.map": "/fbomb/static/css/main.fe0f137c.css.map",
+    "main.2257a8ee.css.map": "/fbomb/static/css/main.2257a8ee.css.map",
     "main.dda4655a.js.map": "/fbomb/static/js/main.dda4655a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe0f137c.css",
+    "static/css/main.2257a8ee.css",
     "static/js/main.dda4655a.js"
   ]
 }
